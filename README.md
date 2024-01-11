@@ -1,2 +1,2 @@
 # api_acesso_gdrive
-acessar por meio de um backend arquivos do Google drive
+back end para acesso a diretorios do gdrive
